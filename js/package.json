@@ -1,0 +1,14 @@
+{
+  "name": "ffi-example",
+  "version": "0.0.1",
+  "description": "NodeJS FFI example w/ Rust",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Richard Sentino <richard@mindginative.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "ffi": "^1.3.1"
+  }
+}
